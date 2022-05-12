@@ -1,0 +1,2 @@
+# 将npm创建的放置下载安装工具包的node_modules文件夹进行配置为忽略文件处理
+/node_modules
